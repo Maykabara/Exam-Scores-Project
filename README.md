@@ -52,6 +52,11 @@ exam-scores/
    - Bar charts: Show performance of students by subject.
    - Pie charts: Highlight pass/fail ratios for each subject.
    - Line graphs: Display trends in scores across subjects.
+4. **Results**:
+   - Bar charts,
+   - Pie charts,
+   - and Line graphs all saved under a single folder called "output".
+
 
 ---
 
